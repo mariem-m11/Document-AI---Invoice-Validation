@@ -5,18 +5,6 @@
 
 This project focuses on developing an AI-driven system that automates the validation of financial invoices. The system leverages **Machine Learning (ML)** and **Deep Learning (DL)** techniques, including **Optical Character Recognition (OCR)** and **Document Layout Analysis**, to detect and validate key elements in invoices such as the presence of stamps, signatures, and specific fields. The system also handles various invoice formats, including handwritten and machine-printed ones.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data](#data)
-- [Results](#results)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
-
 ## Features
 - Automatic validation of invoices by extracting key information.
 - Handles scanned machine-written invoices with poor quality or uneven lighting.
